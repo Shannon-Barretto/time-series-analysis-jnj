@@ -21,6 +21,13 @@ This project received a score of `92.5%`, with minor deductions related to model
 - The chosen model was **ARIMA(0, 1, 1) × (0, 1, 0)<sub>4</sub>**, which had a good balance of interpretability and statistical validity.
 - Residual diagnostics confirmed improvement in Gaussianity and independence.
 
+## 🧠 Lessons Learned
+
+- My initial ARIMA model identification (ARIMA(1,1,1) × (0,1,0)<sub>4</sub>) was slightly off. Based on the ACF decay and PACF cutoff at lag 1, the more appropriate model would have been ARIMA(1,1,0) × (0,1,0)<sub>4</sub>.
+- I also missed Gaussianity tests for the residuals of the log-transformed models. This would have strengthened the model validation and supported the choice of the final model more rigorously.
+
+These insights were noted in the feedback and helped me better understand model diagnostics and time series assumptions.
+
 ## 📁 Files
 
 - `10927437_Time_Series_Coursework.pdf`: The full report detailing the analysis, methodology, diagnostics, and conclusion.
