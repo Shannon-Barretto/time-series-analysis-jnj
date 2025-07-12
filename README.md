@@ -1,6 +1,8 @@
 # Time Series Analysis: Johnson & Johnson Quarterly Earnings
 
-This repository contains a time series analysis project that applies ARIMA modeling to Johnson & Johnson's quarterly earnings per share data from 1960 to 1980. The analysis was completed as part of a university coursework in April 2025.
+This repository contains a time series analysis project that applies ARIMA modeling to Johnson & Johnson's quarterly earnings per share data from 1960 to 1980. The analysis was completed as part of a university coursework in April 2025. 
+
+This project received a score of `92.5%`, with minor deductions related to model identification and diagnostic completeness.
 
 ## 📄 Coursework Summary
 
@@ -12,3 +14,9 @@ This repository contains a time series analysis project that applies ARIMA model
   - Fitting ARIMA models with and without log transformation
   - Diagnostic checking using residual plots and Shapiro-Wilk test
   - Model selection based on AIC, log-likelihood, and parsimony
+
+## 📊 Key Results
+
+- Log transformation of the data improved model performance significantly.
+- The chosen model was **ARIMA(0, 1, 1) × (0, 1, 0)<sub>4</sub>**, which had a good balance of interpretability and statistical validity.
+- Residual diagnostics confirmed improvement in Gaussianity and independence.
