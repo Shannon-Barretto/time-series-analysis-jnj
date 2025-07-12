@@ -42,7 +42,6 @@ These insights were noted in the feedback and helped me better understand model 
 ## ✍️ Author
 
 **Shannon Sabastian Barretto**  
-University of Manchester  
 April 2025
 
 ---
