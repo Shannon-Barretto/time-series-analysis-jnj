@@ -31,6 +31,7 @@ These insights were noted in the feedback and helped me better understand model 
 ## 📁 Files
 
 - `10927437_Time_Series_Coursework.pdf`: The full report detailing the analysis, methodology, diagnostics, and conclusion.
+- `10927437.r`: R script used for plotting and modelling
 
 ## 🛠 Tools & Techniques
 
