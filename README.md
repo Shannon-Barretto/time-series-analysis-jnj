@@ -2,7 +2,7 @@
 
 This repository contains a time series analysis project that applies ARIMA modeling to Johnson & Johnson's quarterly earnings per share data from 1960 to 1980. The analysis was completed as part of a university coursework in April 2025. 
 
-This project received a score of `92.5%`, with minor deductions related to model identification and diagnostic completeness.
+This coursework received a score of `92.5%`, with minor deductions related to model identification and diagnostic completeness.
 
 ## 📄 Coursework Summary
 
