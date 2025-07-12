@@ -32,6 +32,7 @@ These insights were noted in the feedback and helped me better understand model 
 
 - `report.pdf`: The full report detailing the analysis, methodology, diagnostics, and conclusion.
 - `jnj_time_series_analysis.r`: R script used for plotting and modelling
+- `tsdiags.R`: Diagnostic script
 
 ## 🛠 Tools & Techniques
 
