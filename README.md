@@ -1,1 +1,1 @@
-# time-series-analysis-jnj
+# Time Series Analysis: Johnson & Johnson Quarterly Earnings
