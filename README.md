@@ -20,3 +20,24 @@ This project received a score of `92.5%`, with minor deductions related to model
 - Log transformation of the data improved model performance significantly.
 - The chosen model was **ARIMA(0, 1, 1) × (0, 1, 0)<sub>4</sub>**, which had a good balance of interpretability and statistical validity.
 - Residual diagnostics confirmed improvement in Gaussianity and independence.
+
+## 📁 Files
+
+- `10927437_Time_Series_Coursework.pdf`: The full report detailing the analysis, methodology, diagnostics, and conclusion.
+
+## 🛠 Tools & Techniques
+
+- R programming language
+- ARIMA modeling (`arima()` function)
+- Time series diagnostic plots
+- Shapiro-Wilk test for normality
+
+## ✍️ Author
+
+**Shannon Sabastian Barretto**  
+University of Manchester  
+April 2025
+
+---
+
+*This project was completed as part of a Time Series module and is meant for academic and educational purposes.*
